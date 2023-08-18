@@ -1,4 +1,6 @@
-# laptop price predictor
+# car price predictor
+
+Data source: [Cars45](https://www.cars45.com)
 
 ## install dependencies
 ```
