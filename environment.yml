@@ -6,3 +6,5 @@ dependencies:
   - seaborn
   - scikit-learn
   - jupyter
+  - beautifulsoup4
+  - tqdm
